@@ -18,7 +18,7 @@ C -N -CT-C    1    0.41          0.0            -4.         four amplitudes and
 C -N -CT-C    1    0.52          0.0            -3.         phases for phi
 C -N -CT-C    1    0.11          0.0            -2.
 C -N -CT-C    1    0.00          0.0             1.
-N -CT-C -N    1    0.1the3          0.0            -4.         four amplitudes and
+N -CT-C -N    1    0.13          0.0            -4.         four amplitudes and
 N -CT-C -N    1    0.75        180.0            -3.         phases for psi
 N -CT-C -N    1    1.21        180.0            -2.
 N -CT-C -N    1    0.64        180.0             1.
